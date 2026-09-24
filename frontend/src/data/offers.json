@@ -1,0 +1,745 @@
+[
+  {
+    "id": "off-1788139983602",
+    "cropLotId": "crop-lot-1788139835499",
+    "buyerId": "m-1788119686398",
+    "buyerName": "Satara APMC",
+    "loginEmail": "satara@gmail.com",
+    "farmerId": "u-1788110287567",
+    "farmerName": "Meena",
+    "farmerEmail": "meena@gmail.com",
+    "crop": "Paddy",
+    "quantity": "2000 kg (20.0 Quintals)",
+    "offeredPricePerQuintal": 4216,
+    "totalValue": 84320,
+    "netReturn": 81184,
+    "status": "Completed",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Deal completed successfully. ₹81,184 released to farmer account.",
+    "discussion": [
+      {
+        "id": "msg-1788139983602",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Paddy lot at ₹4216/q.",
+        "timestamp": "07:03 am"
+      },
+      {
+        "id": "msg-1788140698143",
+        "senderName": "Satara APMC",
+        "senderRole": "mandi",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Satara APMC.",
+        "timestamp": "07:14 AM"
+      },
+      {
+        "id": "msg-1788140711141",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "🚚 Freight transport dispatched! Vehicle MH-27-AX-4821 (Ramesh Kumar) en route to Satara APMC gate.",
+        "timestamp": "07:15 am"
+      },
+      {
+        "id": "msg-1788140723613",
+        "senderName": "Satara APMC",
+        "senderRole": "mandi",
+        "text": "Payment of ₹81,184 released to farmer account. Order marked completed.",
+        "timestamp": "07:15 AM"
+      }
+    ],
+    "acceptedAt": "2026-08-31T01:44:58.148Z",
+    "dispatched": true,
+    "transportDetails": {
+      "driverName": "Ramesh Kumar",
+      "truckNo": "MH-27-AX-4821",
+      "dispatchedAt": "07:15 am"
+    },
+    "paidAmount": 81184,
+    "completedAt": "2026-08-31T01:45:23.613Z"
+  },
+  {
+    "id": "off-1788140781260",
+    "cropLotId": "crop-lot-1788140769703",
+    "buyerId": "m-1788119686398",
+    "buyerName": "Satara APMC",
+    "loginEmail": "satara@gmail.com",
+    "farmerId": "u-1787933137256",
+    "farmerName": "Ram",
+    "farmerEmail": "ram@gmail.com",
+    "crop": "Tomato",
+    "quantity": "500 kg (5.0 Quintals)",
+    "offeredPricePerQuintal": 2916,
+    "totalValue": 14580,
+    "netReturn": 11580,
+    "status": "Completed",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Deal completed successfully. ₹11,580 released to farmer account.",
+    "discussion": [
+      {
+        "id": "msg-1788140781260",
+        "senderName": "Ram",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Tomato lot at ₹2916/q.",
+        "timestamp": "07:16 am"
+      },
+      {
+        "id": "msg-1788140795015",
+        "senderName": "Satara APMC",
+        "senderRole": "mandi",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Satara APMC.",
+        "timestamp": "07:16 AM"
+      },
+      {
+        "id": "msg-1788140816762",
+        "senderName": "Satara APMC",
+        "senderRole": "mandi",
+        "text": "Payment of ₹11,580 released to farmer account. Order marked completed.",
+        "timestamp": "07:16 AM"
+      }
+    ],
+    "acceptedAt": "2026-08-31T01:46:35.015Z",
+    "paidAmount": 11580,
+    "completedAt": "2026-08-31T01:46:56.762Z"
+  },
+  {
+    "id": "off-1788140849599",
+    "cropLotId": "crop-lot-1788140840451",
+    "buyerId": "m-1788119686398",
+    "buyerName": "Satara APMC",
+    "loginEmail": "satara@gmail.com",
+    "farmerId": "u-1787933137256",
+    "farmerName": "Ram",
+    "farmerEmail": "ram@gmail.com",
+    "crop": "Maize",
+    "quantity": "500 kg (5.0 Quintals)",
+    "offeredPricePerQuintal": 2316,
+    "totalValue": 11580,
+    "netReturn": 8580,
+    "status": "SUPERSEDED",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Superseded: Deal accepted with Dhule APMC Main Yard at ₹2250/q.",
+    "discussion": [
+      {
+        "id": "msg-1788140849600",
+        "senderName": "Ram",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Maize lot at ₹2316/q.",
+        "timestamp": "07:17 am"
+      }
+    ]
+  },
+  {
+    "id": "off-1788140926553",
+    "cropLotId": "crop-lot-1788140840451",
+    "buyerId": "m-1788116713896",
+    "buyerName": "Dhule APMC Main Yard",
+    "loginEmail": "dhule@gmail.com",
+    "farmerId": "u-1787933137256",
+    "farmerName": "Ram",
+    "farmerEmail": "ram@gmail.com",
+    "crop": "Maize",
+    "quantity": "500 kg (5.0 Quintals)",
+    "offeredPricePerQuintal": 2250,
+    "totalValue": 11250,
+    "netReturn": 10500,
+    "status": "Completed",
+    "type": "received",
+    "createdDate": "2026-08-31",
+    "notes": "Deal completed successfully. ₹10,500 released to farmer account.",
+    "discussion": [
+      {
+        "id": "msg-1788140926555",
+        "senderName": "Dhule APMC Main Yard",
+        "senderRole": "mandi",
+        "text": "Official purchase offer issued at ₹2250/q for Maize lot.",
+        "timestamp": "07:18 AM"
+      },
+      {
+        "id": "msg-1788140970953",
+        "senderName": "Dhule APMC Main Yard",
+        "senderRole": "mandi",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Dhule APMC Main Yard.",
+        "timestamp": "07:19 AM"
+      },
+      {
+        "id": "msg-1788140984020",
+        "senderName": "Dhule APMC Main Yard",
+        "senderRole": "mandi",
+        "text": "Payment of ₹10,500 released to farmer account. Order marked completed.",
+        "timestamp": "07:19 AM"
+      }
+    ],
+    "acceptedAt": "2026-08-31T01:49:30.953Z",
+    "paidAmount": 10500,
+    "completedAt": "2026-08-31T01:49:44.019Z"
+  },
+  {
+    "id": "off-1788143103651",
+    "cropLotId": "crop-lot-1788143057142",
+    "buyerId": "m-5",
+    "buyerName": "Mumbai Vashi APMC (Terminal Wholesale)",
+    "loginEmail": "vashi@gmail.com",
+    "farmerId": "u-1788143023140",
+    "farmerName": "Reena",
+    "farmerEmail": "reena@gmail.com",
+    "crop": "Cotton",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 6948,
+    "totalValue": 104220,
+    "netReturn": 101011,
+    "status": "Completed",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Deal completed successfully. ₹1,01,011 released to farmer account.",
+    "discussion": [
+      {
+        "id": "msg-1788143103651",
+        "senderName": "Reena",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Cotton lot at ₹6948/q.",
+        "timestamp": "07:55 am"
+      },
+      {
+        "id": "msg-1788144115241",
+        "senderName": "Mumbai Vashi APMC",
+        "senderRole": "mandi",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Mumbai Vashi APMC (Terminal Wholesale).",
+        "timestamp": "08:11 AM"
+      },
+      {
+        "id": "msg-1788144131504",
+        "senderName": "Mumbai Vashi APMC",
+        "senderRole": "mandi",
+        "text": "Payment of ₹1,01,011 released to farmer account. Order marked completed.",
+        "timestamp": "08:12 AM"
+      }
+    ],
+    "acceptedAt": "2026-08-31T02:41:55.243Z",
+    "paidAmount": 101011,
+    "completedAt": "2026-08-31T02:42:11.503Z"
+  },
+  {
+    "id": "off-1788144227350",
+    "cropLotId": "crop-lot-1788144153352",
+    "buyerId": "m-5",
+    "buyerName": "Mumbai Vashi APMC (Terminal Wholesale)",
+    "loginEmail": "vashi@gmail.com",
+    "farmerId": "u-1788143023140",
+    "farmerName": "Reena",
+    "farmerEmail": "reena@gmail.com",
+    "crop": "Chilli",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 16388,
+    "totalValue": 245820,
+    "netReturn": 239779,
+    "status": "SUPERSEDED",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Superseded: Deal accepted with Dhule APMC at ₹17000/q.",
+    "discussion": [
+      {
+        "id": "msg-1788144227350",
+        "senderName": "Reena",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Chilli lot at ₹16388/q.",
+        "timestamp": "08:13 am"
+      }
+    ]
+  },
+  {
+    "id": "off-1788144264039",
+    "cropLotId": "crop-lot-1788144153352",
+    "buyerId": "m-20",
+    "buyerName": "Dhule APMC",
+    "loginEmail": "dhule@gmail.com",
+    "farmerId": "u-1788143023140",
+    "farmerName": "Reena",
+    "farmerEmail": "reena@gmail.com",
+    "crop": "Chilli",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 17000,
+    "totalValue": 255000,
+    "netReturn": 249075,
+    "status": "Completed",
+    "type": "received",
+    "createdDate": "2026-08-31",
+    "notes": "Deal completed successfully. ₹2,49,075 released to farmer account.",
+    "discussion": [
+      {
+        "id": "msg-1788144264039",
+        "senderName": "Dhule APMC",
+        "senderRole": "mandi",
+        "text": "Official purchase offer issued at ₹17000/q for Chilli lot.",
+        "timestamp": "08:14 AM"
+      },
+      {
+        "id": "msg-1788144287320",
+        "senderName": "Dhule APMC Main Yard",
+        "senderRole": "mandi",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Dhule APMC.",
+        "timestamp": "08:14 AM"
+      },
+      {
+        "id": "msg-1788144315104",
+        "senderName": "Dhule APMC Main Yard",
+        "senderRole": "mandi",
+        "text": "Payment of ₹2,49,075 released to farmer account. Order marked completed.",
+        "timestamp": "08:15 AM"
+      }
+    ],
+    "acceptedAt": "2026-08-31T02:44:47.320Z",
+    "paidAmount": 249075,
+    "completedAt": "2026-08-31T02:45:15.103Z"
+  },
+  {
+    "id": "off-1788144677980",
+    "cropLotId": "crop-lot-1788144648970",
+    "buyerId": "m-2",
+    "buyerName": "Nashik APMC (Dindori Road)",
+    "loginEmail": "nashik@gmail.com",
+    "farmerId": "u-1788144643400",
+    "farmerName": "Parvin",
+    "farmerEmail": "parvin@gmail.com",
+    "crop": "Paddy",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 4243,
+    "totalValue": 63645,
+    "netReturn": 60645,
+    "status": "REJECTED",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Declined by Nashik APMC (Dindori Road). Reason: Requested price of ₹4243/q exceeds APMC procurement budget for Grade A Paddy.",
+    "discussion": [
+      {
+        "id": "msg-1788144677980",
+        "senderName": "Parvin",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Paddy lot at ₹4243/q.",
+        "timestamp": "08:21 am"
+      },
+      {
+        "id": "msg-1788144943721",
+        "senderName": "Nashik APMC (Dindori Road)",
+        "senderRole": "mandi",
+        "text": "Request declined. Reason: Requested price of ₹4243/q exceeds APMC procurement budget for Grade A Paddy.",
+        "timestamp": "08:25 AM"
+      }
+    ],
+    "rejectionReason": "Requested price of ₹4243/q exceeds APMC procurement budget for Grade A Paddy."
+  },
+  {
+    "id": "off-1788144971469",
+    "cropLotId": "crop-lot-1788144648970",
+    "buyerId": "m-20",
+    "buyerName": "Dhule APMC Main Yard",
+    "loginEmail": "dhule@gmail.com",
+    "farmerId": "u-1788144643400",
+    "farmerName": "Parvin",
+    "farmerEmail": "parvin@gmail.com",
+    "crop": "Paddy",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 4243,
+    "totalValue": 63645,
+    "netReturn": 60645,
+    "status": "REJECTED",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Declined by Dhule APMC Main Yard. Reason: Requested price of ₹4243/q exceeds APMC procurement budget for Grade A Paddy.",
+    "discussion": [
+      {
+        "id": "msg-1788144971470",
+        "senderName": "Parvin",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Paddy lot at ₹4243/q.",
+        "timestamp": "08:26 am"
+      },
+      {
+        "id": "msg-1788145489304",
+        "senderName": "Dhule APMC Main Yard",
+        "senderRole": "mandi",
+        "text": "Request declined. Reason: Requested price of ₹4243/q exceeds APMC procurement budget for Grade A Paddy.",
+        "timestamp": "08:34 AM"
+      }
+    ],
+    "rejectionReason": "Requested price of ₹4243/q exceeds APMC procurement budget for Grade A Paddy."
+  },
+  {
+    "id": "off-1788145510682",
+    "cropLotId": "crop-lot-1788144648970",
+    "buyerId": "m-20",
+    "buyerName": "Dhule APMC",
+    "loginEmail": "dhule@gmail.com",
+    "farmerId": "u-1788144643400",
+    "farmerName": "Parvin",
+    "farmerEmail": "parvin@gmail.com",
+    "crop": "Paddy",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 4243,
+    "totalValue": 63645,
+    "netReturn": 60645,
+    "status": "Completed",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Deal completed successfully. ₹60,645 released to farmer account.",
+    "discussion": [
+      {
+        "id": "msg-1788145510683",
+        "senderName": "Parvin",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Paddy lot at ₹4243/q.",
+        "timestamp": "08:35 am"
+      },
+      {
+        "id": "msg-1788145522101",
+        "senderName": "Dhule APMC Main Yard",
+        "senderRole": "mandi",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Dhule APMC.",
+        "timestamp": "08:35 AM"
+      },
+      {
+        "id": "msg-1788145544674",
+        "senderName": "Dhule APMC Main Yard",
+        "senderRole": "mandi",
+        "text": "Payment of ₹60,645 released to farmer account. Order marked completed.",
+        "timestamp": "08:35 AM"
+      }
+    ],
+    "acceptedAt": "2026-08-31T03:05:22.101Z",
+    "paidAmount": 60645,
+    "completedAt": "2026-08-31T03:05:44.673Z"
+  },
+  {
+    "id": "off-1788146502379",
+    "cropLotId": "crop-lot-1788146477205",
+    "buyerId": "m-5",
+    "buyerName": "Mumbai Vashi APMC (Terminal Wholesale)",
+    "loginEmail": "vashi@gmail.com",
+    "farmerId": "u-1788110287567",
+    "farmerName": "Meena",
+    "farmerEmail": "meena@gmail.com",
+    "crop": "Cotton",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 6938,
+    "totalValue": 104070,
+    "netReturn": 100864,
+    "status": "Completed",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Deal completed successfully. ₹1,00,864 released to farmer account.",
+    "discussion": [
+      {
+        "id": "msg-1788146502379",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Cotton lot at ₹6938/q.",
+        "timestamp": "08:51 am"
+      },
+      {
+        "id": "msg-1788146521155",
+        "senderName": "Mumbai Vashi APMC",
+        "senderRole": "mandi",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Mumbai Vashi APMC (Terminal Wholesale).",
+        "timestamp": "08:52 AM"
+      },
+      {
+        "id": "msg-1788146531464",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "🚚 Freight transport dispatched! Vehicle MH-27-AX-4821 (Ramesh Kumar) en route to Mumbai Vashi APMC (Terminal Wholesale) gate.",
+        "timestamp": "08:52 am"
+      },
+      {
+        "id": "msg-1788147795720",
+        "senderName": "Mumbai Vashi APMC",
+        "senderRole": "mandi",
+        "text": "Payment of ₹1,00,864 released to farmer account. Order marked completed.",
+        "timestamp": "09:13 AM"
+      }
+    ],
+    "acceptedAt": "2026-08-31T03:22:01.161Z",
+    "dispatched": true,
+    "transportDetails": {
+      "driverName": "Ramesh Kumar",
+      "truckNo": "MH-27-AX-4821",
+      "dispatchedAt": "08:52 am"
+    },
+    "paidAmount": 100864,
+    "completedAt": "2026-08-31T03:43:15.720Z"
+  },
+  {
+    "id": "off-1788147755060",
+    "cropLotId": "crop-lot-1788147739861",
+    "buyerId": "m-5",
+    "buyerName": "Mumbai Vashi APMC (Terminal Wholesale)",
+    "loginEmail": "vashi@gmail.com",
+    "farmerId": "u-1788147726731",
+    "farmerName": "Esub",
+    "farmerEmail": "esub@gmail.com",
+    "crop": "Chilli",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 16388,
+    "totalValue": 245820,
+    "netReturn": 239779,
+    "status": "Completed",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Deal completed successfully. ₹2,39,779 released to farmer account.",
+    "discussion": [
+      {
+        "id": "msg-1788147755060",
+        "senderName": "Esub",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Chilli lot at ₹16388/q.",
+        "timestamp": "09:12 am"
+      },
+      {
+        "id": "msg-1788147767434",
+        "senderName": "Mumbai Vashi APMC",
+        "senderRole": "mandi",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Mumbai Vashi APMC (Terminal Wholesale).",
+        "timestamp": "09:12 AM"
+      },
+      {
+        "id": "msg-1788147789343",
+        "senderName": "Mumbai Vashi APMC",
+        "senderRole": "mandi",
+        "text": "Payment of ₹2,39,779 released to farmer account. Order marked completed.",
+        "timestamp": "09:13 AM"
+      }
+    ],
+    "acceptedAt": "2026-08-31T03:42:47.437Z",
+    "paidAmount": 239779,
+    "completedAt": "2026-08-31T03:43:09.342Z"
+  },
+  {
+    "id": "off-1788155947986",
+    "cropLotId": "crop-lot-1788155930516",
+    "buyerId": "m-5",
+    "buyerName": "Mumbai Vashi APMC (Terminal Wholesale)",
+    "loginEmail": "vashi@gmail.com",
+    "farmerId": "u-1788110287567",
+    "farmerName": "Meena",
+    "farmerEmail": "meena@gmail.com",
+    "crop": "Wheat",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 2588,
+    "totalValue": 38820,
+    "netReturn": 36919,
+    "status": "Completed",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Deal completed successfully. ₹36,919 released to farmer account.",
+    "discussion": [
+      {
+        "id": "msg-1788155947986",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Wheat lot at ₹2588/q.",
+        "timestamp": "11:29 am"
+      },
+      {
+        "id": "msg-1788156053279",
+        "senderName": "Mumbai Vashi APMC",
+        "senderRole": "mandi",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Mumbai Vashi APMC (Terminal Wholesale).",
+        "timestamp": "11:30 AM"
+      },
+      {
+        "id": "msg-1788156069027",
+        "senderName": "Mumbai Vashi APMC",
+        "senderRole": "mandi",
+        "text": "Payment of ₹36,919 released to farmer account. Order marked completed.",
+        "timestamp": "11:31 AM"
+      }
+    ],
+    "acceptedAt": "2026-08-31T06:00:53.287Z",
+    "paidAmount": 36919,
+    "completedAt": "2026-08-31T06:01:09.026Z"
+  },
+  {
+    "id": "off-1788161327499",
+    "cropLotId": "crop-lot-1788161136651",
+    "buyerId": "m-5",
+    "buyerName": "Mumbai Vashi APMC (Terminal Wholesale)",
+    "loginEmail": "vashi@gmail.com",
+    "farmerId": "u-1788110287567",
+    "farmerName": "Meena",
+    "farmerEmail": "meena@gmail.com",
+    "crop": "Paddy",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 4188,
+    "totalValue": 62820,
+    "netReturn": 60439,
+    "status": "ACCEPTED",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Offer mutually accepted with Mumbai Vashi APMC (Terminal Wholesale) at ₹4188/q. Complete freight dispatch within 2 days.",
+    "discussion": [
+      {
+        "id": "msg-1788161327499",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Paddy lot at ₹4188/q.",
+        "timestamp": "12:58 pm"
+      },
+      {
+        "id": "msg-1788161370044",
+        "senderName": "Mumbai Vashi APMC",
+        "senderRole": "mandi",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Mumbai Vashi APMC (Terminal Wholesale).",
+        "timestamp": "12:59 PM"
+      },
+      {
+        "id": "msg-1788161393120",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "🚚 Freight transport dispatched! Vehicle MH-27-AX-4821 (Ramesh Kumar) en route to Mumbai Vashi APMC (Terminal Wholesale) gate.",
+        "timestamp": "12:59 pm"
+      }
+    ],
+    "acceptedAt": "2026-08-31T07:29:30.065Z",
+    "dispatched": true,
+    "transportDetails": {
+      "driverName": "Ramesh Kumar",
+      "truckNo": "MH-27-AX-4821",
+      "dispatchedAt": "12:59 pm"
+    }
+  },
+  {
+    "id": "off-1788161503306",
+    "cropLotId": "crop-lot-1788161485940",
+    "buyerId": "m-5",
+    "buyerName": "Mumbai Vashi APMC (Terminal Wholesale)",
+    "loginEmail": "vashi@gmail.com",
+    "farmerId": "u-1788110287567",
+    "farmerName": "Meena",
+    "farmerEmail": "meena@gmail.com",
+    "crop": "Onion",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 3418,
+    "totalValue": 51270,
+    "netReturn": 49120,
+    "status": "SUPERSEDED",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Superseded: Deal accepted with Dhule APMC at ₹4000/q.",
+    "discussion": [
+      {
+        "id": "msg-1788161503306",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Onion lot at ₹3418/q.",
+        "timestamp": "01:01 pm"
+      }
+    ]
+  },
+  {
+    "id": "off-1788161554684",
+    "cropLotId": "crop-lot-1788161485940",
+    "buyerId": "m-20",
+    "buyerName": "Dhule APMC",
+    "loginEmail": "dhule@gmail.com",
+    "farmerId": "u-1788110287567",
+    "farmerName": "Meena",
+    "farmerEmail": "meena@gmail.com",
+    "crop": "Onion",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 4000,
+    "totalValue": 60000,
+    "netReturn": 57975,
+    "status": "ACCEPTED",
+    "type": "received",
+    "createdDate": "2026-08-31",
+    "notes": "Offer mutually accepted with Dhule APMC at ₹4000/q. Complete freight dispatch within 2 days.",
+    "discussion": [
+      {
+        "id": "msg-1788161554684",
+        "senderName": "Dhule APMC",
+        "senderRole": "mandi",
+        "text": "Official purchase offer issued at ₹4000/q for Onion lot.",
+        "timestamp": "01:02 PM"
+      },
+      {
+        "id": "msg-1788161585745",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Dhule APMC.",
+        "timestamp": "01:03 pm"
+      },
+      {
+        "id": "msg-1788161595771",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "🚚 Freight transport dispatched! Vehicle MH-27-AX-4821 (Ramesh Kumar) en route to Dhule APMC gate.",
+        "timestamp": "01:03 pm"
+      }
+    ],
+    "acceptedAt": "2026-08-31T07:33:05.745Z",
+    "dispatched": true,
+    "transportDetails": {
+      "driverName": "Ramesh Kumar",
+      "truckNo": "MH-27-AX-4821",
+      "dispatchedAt": "01:03 pm"
+    }
+  },
+  {
+    "id": "off-1788163724476",
+    "cropLotId": "crop-lot-1788163658493",
+    "buyerId": "m-5",
+    "buyerName": "Mumbai Vashi APMC (Terminal Wholesale)",
+    "loginEmail": "vashi@gmail.com",
+    "farmerId": "u-1788110287567",
+    "farmerName": "Meena",
+    "farmerEmail": "meena@gmail.com",
+    "crop": "Paddy",
+    "quantity": "1500 kg (15.0 Quintals)",
+    "offeredPricePerQuintal": 4188,
+    "totalValue": 62820,
+    "netReturn": 60439,
+    "status": "Completed",
+    "type": "sent",
+    "createdDate": "2026-08-31",
+    "notes": "Deal completed successfully. ₹60,439 released to farmer account.",
+    "discussion": [
+      {
+        "id": "msg-1788163724476",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "Consignment request initiated for Paddy lot at ₹4188/q.",
+        "timestamp": "01:38 pm"
+      },
+      {
+        "id": "msg-1788163741195",
+        "senderName": "Mumbai Vashi APMC",
+        "senderRole": "mandi",
+        "text": "Offer accepted! Proceeding with crop harvest and transport dispatch to Mumbai Vashi APMC (Terminal Wholesale).",
+        "timestamp": "01:39 PM"
+      },
+      {
+        "id": "msg-1788163763256",
+        "senderName": "Meena",
+        "senderRole": "farmer",
+        "text": "🚚 Freight transport dispatched! Vehicle MH-27-AX-4821 (Ramesh Kumar) en route to Mumbai Vashi APMC (Terminal Wholesale) gate.",
+        "timestamp": "01:39 pm"
+      },
+      {
+        "id": "msg-1788163778966",
+        "senderName": "Mumbai Vashi APMC",
+        "senderRole": "mandi",
+        "text": "Payment of ₹60,439 released to farmer account. Order marked completed.",
+        "timestamp": "01:39 PM"
+      }
+    ],
+    "acceptedAt": "2026-08-31T08:09:01.198Z",
+    "dispatched": true,
+    "transportDetails": {
+      "driverName": "Ramesh Kumar",
+      "truckNo": "MH-27-AX-4821",
+      "dispatchedAt": "01:39 pm"
+    },
+    "paidAmount": 60439,
+    "completedAt": "2026-08-31T08:09:38.966Z"
+  }
+]

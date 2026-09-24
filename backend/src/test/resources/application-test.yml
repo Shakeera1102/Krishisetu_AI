@@ -1,0 +1,44 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE;MODE=PostgreSQL
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: 
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    database-platform: org.hibernate.dialect.H2Dialect
+    show-sql: false
+  flyway:
+    enabled: false
+
+app:
+  jwt:
+    secret: 404E635266556A586E3272357538782F413F4428472B4B6250645367566B5970
+    expiration-ms: 3600000
+    refresh-expiration-ms: 86400000
+  cors:
+    allowed-origins: "*"
+  ai-service:
+    url: http://localhost:8000
+    connect-timeout-ms: 500
+    read-timeout-ms: 1000
+  transport:
+    base-cost: 300.0
+    cost-per-km: 20.0
+    quintal-divisor: 10.0
+  recommendation:
+    weights:
+      price: 0.40
+      net-return: 0.35
+      distance: 0.10
+      trend: 0.10
+      demand: 0.05
+  matching:
+    weights:
+      crop: 0.30
+      quantity: 0.20
+      distance: 0.15
+      price: 0.20
+      date: 0.10
+      quality: 0.05
